@@ -7,6 +7,6 @@
 
 
 ## 自己紹介リスト
-- [竜大](https://github.com/RyudaiIwakami/hello-world/intro.md)
-- [大輔](https://github.com/RyudaiIwakami/hello-world/intro2.md)
+- [竜大](https://github.com/RyudaiIwakami/hello-world/blob/main/intro.md)
+- [大輔](https://github.com/RyudaiIwakami/hello-world/blob/main/intro.md)
 
