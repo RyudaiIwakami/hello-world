@@ -1,7 +1,13 @@
 # hello-world
 
-Software engineering Tasks
+## 日付
+- 2023/1/19
 
-I love :coffee: :pizza:, and :soccer:.
+## 講義名
+- Software engineering Tasks
 
-My name is Daisuke Tahara.
+
+## 自己紹介
+- I love :coffee: :pizza:, and :soccer:.
+
+- My name is Daisuke Tahara.
